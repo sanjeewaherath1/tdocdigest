@@ -1,0 +1,2 @@
+TDoc Digest: An Interactive web application for generating abstractive summary of a 3GPP TDoc contribution The TDoc Digest is an interactive web application tool to generate an abstractive summary of a given TDoc contribution. The tool takes the meeting id and TDoc number
+as inputs and processes the content of the TDoc, i.e., the long original text and produces an abstractive summary of the TDoc along with a semantic score.
